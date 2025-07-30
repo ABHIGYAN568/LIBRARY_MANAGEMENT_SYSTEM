@@ -19,7 +19,7 @@ Before you can run this application you must have the following installed on you
 
 1. Clone this repository to your local machine:
 
-`git clone https://github.com/dinesh6383/LIBRARY-MANAGEMENT-SYSTEM.git`
+`git clone https://github.com/ABHIGYAN568/LIBRARY_MANAGEMENT_SYSTEM.git`
 
 2. Install the dependencies by running the following command in the project root directory:
 
